@@ -40,7 +40,25 @@
 🚀 Live Application:-
 Click here to demonstrate the app👉
 https://truthsphere-ai-sdg16-umwlnkfrlvpu3emms7x2p4.streamlit.app/
-💻APP SCREESNHOTS:-
+
+🌟 Expected Impact:-
+ 🎯Reduce misinformation.
+ 🎯Improve digital literacy.
+ 🎯Strengthen trust in digital communities.
+
+📌 Developed For
+  1M1B AI for Sustainability Virtual Internship*
+  In Collaboration with IBM SkillsBuild & AICTE*
+---
+
+🌟 Show Your Support
+If you like this project, please consider giving it a ⭐ on GitHub!
+⭐ Don't forget to star this repository if you found it helpful.
+
+
+                                   Thank you for visiting TruthSphere AI! 🚀
+
+
 
 
 
