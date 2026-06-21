@@ -40,6 +40,8 @@
 🚀 Live Application:-
 Click here to demonstrate the app👉
 https://truthsphere-ai-sdg16-umwlnkfrlvpu3emms7x2p4.streamlit.app/
+Click here to see the ppt 👉 
+https://canva.link/ea2s63r31d5257r
 
 🌟 Expected Impact:-
  🎯Reduce misinformation.
